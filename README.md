@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 I'm Giulio Fossato
 
-<!--
-**GiulioBTW/GiulioBTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Technician & 🎨 Graphic Designer from Turin, Italy 🇮🇹 (born in Lecco, 1989).
+🚀 About Me
+PC repair & technical support specialist with hands-on experience in custom builds and hardware/software optimization. I also work on build custom WordPress websites focused on usability and easy client management. Always chasing faster, smarter, cleaner solutions.
+🧠 Skills
 
-Here are some ideas to get you started:
+    🖥️ PC Repair & Optimization (Hardware / Software)
+    ⚙️ Custom PC Assembly & Component Selectioon
+    🌐 WordPress Website Design & Management
+    🪟 Windows User
+    🐧 Linux Lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
